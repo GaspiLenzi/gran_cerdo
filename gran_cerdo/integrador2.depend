@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1655849081 source:c:\users\gaspi\onedrive\escritorio\facu\lab\integrador2\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<ctime>
+	<string>
+	<locale.h>
+	<windows.h>
+	<unistd.h>
+	"func.h"
+
+1655849030 c:\users\gaspi\onedrive\escritorio\facu\lab\integrador2\func.h
+
+1655849779 source:c:\users\gaspi\onedrive\escritorio\facu\lab\integrador2\func.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<ctime>
+	<string>
+	<locale.h>
+	<windows.h>
+	<unistd.h>
+	"func.h"
+
+1656027947 source:c:\users\gaspi\onedrive\escritorio\integrador2\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<ctime>
+	<string>
+	<locale.h>
+	<windows.h>
+	<unistd.h>
+	"func.h"
+	"rlutil.h"
+
+1655866375 c:\users\gaspi\onedrive\escritorio\integrador2\func.h
+
+1655855553 c:\users\gaspi\onedrive\escritorio\integrador2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655867673 source:c:\users\gaspi\onedrive\escritorio\integrador2\func.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<ctime>
+	<string>
+	<locale.h>
+	<windows.h>
+	<unistd.h>
+	"func.h"
+	"rlutil.h"
+

@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1655867673 source:c:\users\gaspi\onedrive\escritorio\gran_cerdo\func.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<ctime>
+	<string>
+	<locale.h>
+	<windows.h>
+	<unistd.h>
+	"func.h"
+	"rlutil.h"
+
+1655866375 c:\users\gaspi\onedrive\escritorio\gran_cerdo\func.h
+
+1655855553 c:\users\gaspi\onedrive\escritorio\gran_cerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656028128 source:c:\users\gaspi\onedrive\escritorio\gran_cerdo\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<ctime>
+	<string>
+	<locale.h>
+	<windows.h>
+	<unistd.h>
+	"func.h"
+	"rlutil.h"
+
